@@ -1,3 +1,11 @@
+import {
+  Button,
+  StyleSheet,
+  View,
+  Image,
+  ScrollView,
+  SafeAreaView,
+} from "react-native";
 import * as ImagePicker from "expo-image-picker";
 import { useState } from "react";
 
